@@ -1,0 +1,7 @@
+{
+    "name": "mediawiki-json-coords",
+    "description": "parsed coordinates of pages from denormalized mediawiki-json-revisions",
+    "version": "1.0.0",
+    "contributors": ["leeb"],
+    "dependencies": {"wco": "0.0.4"}
+}
